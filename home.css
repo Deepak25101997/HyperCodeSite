@@ -1,0 +1,361 @@
+.nav-link{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+p{
+    font-size: 10px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.container > div{
+    background-color: white;
+}
+.navbar-brand{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.navbar{
+    padding-left: 100px;
+    padding-right: 50px;
+}
+.tag-line{
+    padding-top: 40%;
+}
+.creative{
+    background-color: #AFC0E0;
+    padding-left: 25px;
+    font-size: 2.0em;
+    font-weight: 500;
+    position: relative;
+    right: 25px;
+    color: #695ABD;
+
+}
+h2,h3,h4{
+    color:#695ABD
+}
+.quote-request{
+    margin-top: 20%
+}
+#ip2{
+    border-radius: 25px;
+    border: 2px solid #609;
+    padding: 20px;
+    width: 200px;
+    height: 15px;
+}
+#button-addon2{
+    border-radius: 25px;
+    z-index: 3;
+}
+.quote{
+    color: white;
+    background-color: #3F2A93;
+    border-color: #3F2A93;
+    position: relative;
+    right: 97px;
+}
+.quote:hover{
+    color: #3F2A93 ;
+    background-color: white;
+    border-color: #3F3B99;
+}
+.about-us{
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 1px 0px 7px 4px;
+}
+.banner-about-us{
+    background-color: #3F2A93;
+    height: 214px;
+    background-clip: content-box;
+}
+.banner-text{
+    transform: rotate(-90deg);
+    top: 40px;
+    position: relative;
+    right: 70px;
+    width: 200px;
+}
+.arrow{
+    background-color: white;
+    height: 62px;
+    transform: rotate(45deg);
+    position: relative;
+    top: 150px;
+
+}
+.services{
+    margin-top: 100px;
+}
+.services{
+    height: 450px;
+    border-radius: 20px;
+    box-shadow: 1px 0px 7px 4px;
+}
+.banner-services{
+    background-color: #3F2A93;
+    height: 214px;
+    background-clip: content-box;
+}
+
+
+.text-services{
+    margin-top: 15%;
+}
+.box-inside-square{
+    height: 275px;
+    border-radius: 20px;
+    width: 275px;
+    border: 1px solid black;
+    box-shadow: 1px 0px 7px 4px ;
+    background-color: white;
+    padding: 4%;
+}
+.square-service-box{
+    padding: 1px;
+}
+.box-container{
+    position: relative;
+    bottom: 100px;
+}
+.our-work{
+    border-radius: 20px;
+    border: 1px solid black;
+    height: 600px;
+}
+.our-work-banner{
+    background-color:#3F2A93 ;
+    height: 600px;
+    border-radius: 20px 1px 1px 20px;
+}
+.web-cards-1{
+
+    /* background-color: red; */
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow: 0px 0px 9px 1px;
+}
+.web-cards-2{
+
+    /* background-color: red; */
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow: 0px 0px 9px 1px;
+}
+.card-web-holder{
+    padding-top: 5%;
+}
+.vertical-web-card{
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow: 0px 0px 9px 1px;
+}
+.vertical-card-web-holder{
+    padding-top: 5%;
+}
+.view-project-link{
+    font-size: 30px;
+}
+.view-project-link-holder{
+    position: relative;
+    top: 5%;
+}
+.text-about-us{
+    margin-top: 15%;
+}
+.text-for-students{
+    margin-top: 15%;
+}
+.banner-for-students{
+    background-color: #3F2A93;
+    height: 264px;
+    background-clip: content-box;
+}
+.banner-text-for-students{
+    transform: rotate(-90deg);
+    top: 70px;
+    position: relative;
+    right: 70px;
+    width: 200px;
+}
+.arrow-for-students{
+    background-color: white;
+    height: 62px;
+    transform: rotate(45deg);
+    position: relative;
+    top: 175px;
+}
+.for-students{
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 1px 0px 7px 4px;
+}
+.sign-up{
+    color: white;
+    background-color: #3F2A93;
+    border-color: #3F2A93;
+    border-radius: 25px;
+}
+.login{
+    color: white;
+    background-color: #3F2A93;
+    border-color: #3F2A93;
+    border-radius: 25px;
+}
+.login:hover{
+    background-color: white;
+    color: #3F2A93;
+    border-color: #3F2A93;
+
+}
+.sign-up:hover{
+    background-color: white;
+    color: #3F2A93;
+    border-color: #3F2A93;
+
+}
+.contact-us{
+    border-radius: 20px;
+    box-shadow: 1px 0px 7px 4px;
+}
+.banner-contact-us{
+    background-color: #3F2A93;
+    height: 265px;
+    background-clip: content-box;
+}
+.arrow-contact-us{
+    background-color: white;
+    height: 62px;
+    transform: rotate(45deg);
+    position: relative;
+    top: 175px;
+}
+.banner-text-contact-us{
+    transform: rotate(-90deg);
+    top: 70px;
+    position: relative;
+    right: 70px;
+    width: 200px;
+}
+.message-submit{
+    color: white;
+    background-color: #3F2A93;
+    border-color: #3F2A93;
+    border-radius: 25px;
+}
+.message-submit:hover{
+    background-color: white;
+    color: #3F2A93;
+    border-color: #3F2A93;
+}
+.contact-us-action-area{
+    padding: 4%;
+}
+.map-box{
+    height: 300px;
+}
+.map-action-area{
+    margin-bottom: 4%;
+}
+#map {
+    height: 300px;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+}
+.locate-us{
+   position: relative;
+    top: 30%;
+}
+.locate-us-address{
+   position: relative;
+    top: 60%;
+}
+.footer-content{
+    position: relative;
+    top: 30px;
+}
+.page-footer{
+    background-color: #3F2A93;
+    color: white;
+}
+.list-unstyled > li > a{
+    color: white;
+    font-size: 10px;
+}
+.view-project-arrow{
+    visibility: hidden;
+}
+.view-project-arrow:hover{
+    visibility: visible;
+}
+.our-work-text{
+    transform: rotate(-90deg);
+    top: 45%;
+    position: relative;
+    right: 70px;
+    width: 200px;
+}
+.services-image{
+    padding-top: 4%;
+}
+.box-square-text{
+    align-items: center;
+    position: relative;
+    top:10%;
+    left: 5%;
+}
+.web-card-image{
+    padding-top: 4%;
+}
+.web-cards-1-text-1{
+    padding:4%;
+}
+.web-cards-1-text-2{
+    padding:4%;
+}
+.web-cards-1-text-2 > a{
+    font-size: 12px;
+}
+.web-cards-2-text-1{
+    padding:4%;
+}
+.web-cards-2-text-2{
+    padding:4%;
+}
+.web-cards-2-text-2 > a{
+    font-size: 12px;
+}
+.vertical-web-card-text-1{
+    padding:4%;
+}
+.vertical-web-card-text-2{
+    padding:4%;
+}
+.vertical-web-card-text-2 > a{
+    font-size: 12px;
+}
+/*Landing page css ends*/
+.about-us-page-big-image-holder{
+    padding: 4%;
+}
+.about-us-desc{
+    font-size: 18px;
+}
+.our-members{
+    background-image: url("assets/dark bg.svg");
+    margin-bottom: 4%;
+    padding: 4%;
+}
+.our-members-photo-box{
+    background-color: white;
+    border-radius: 25px;
+    height: 250px;
+}
+.our-members-row{
+    background-color: unset !important;
+}
+.member-card{
+    margin-bottom: 4%;
+}
